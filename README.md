@@ -5,7 +5,7 @@
 
 ## Team Members
 
-|  Name  |
-|--------|
-|  Olamikun Aluko  |
-|  Jonas Huber  |
+|   Name |  UCID    |
+|--------|----------|
+|  Olamikun Aluko   |   30123919    |
+|  Jonas Huber  |   30174622    |
