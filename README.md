@@ -1,2 +1,11 @@
-# Lab5
-Lab5 repository on HTML and CSS
+# Lab 5
+# Project Overview
+
+* <Stuff here>
+
+## Team Members
+
+|  Name  |
+|--------|
+|  Olamikun Aluko  |
+|  Jonas Huber  |
